@@ -18,7 +18,7 @@ The `npm start` command will run grunt for you.
 
 The web server will be started, and the JavaScript code in the `src/scripts` directory will be compiled into `public/bundle.js`.
 
-1. Open Chome and make sure your developer tools are open.
+1. Open Chrome and make sure your developer tools are open.
 1. Open [http://localhost:8080](http://localhost:8080) in your browser.
 1. You should see the following output in the console.
 
